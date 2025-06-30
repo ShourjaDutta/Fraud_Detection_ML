@@ -1,0 +1,19 @@
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+*.egg-info/
+env/
+venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+
+# IDE specific
+.vscode/
+.idea/
+
+# Logs or temp files
+*.log
