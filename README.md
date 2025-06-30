@@ -87,3 +87,6 @@ The following models were trained and evaluated:
 3. Run the notebook or script to train and evaluate models:
 
    python fraud_detection.py
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
